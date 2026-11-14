@@ -1,0 +1,6 @@
+Photos from Unsplash (free licence, commercial use allowed, attribution not required).
+hero_supply.jpg: images.unsplash.com/photo-1730376319010-4ce5b8b2e385
+supplier_crate.jpg: images.unsplash.com/photo-1751210769268-85d43ecfcdd8
+customer_grocers.jpg: images.unsplash.com/photo-1753354868616-544973e405c9
+van_produce.jpg: images.unsplash.com/photo-1686657429079-95d763456dbd
+bakery_counter.jpg: images.unsplash.com/photo-1711672284661-bd70e38f31b2
